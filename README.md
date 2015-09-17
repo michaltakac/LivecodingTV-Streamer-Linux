@@ -29,7 +29,9 @@ Authors:
 How to
 ------
 
-* Go to https://www.livecoding.tv/YOUR_USERNAME/settings/channel/ , click on the **Show Streamer key** and copy and paste the key inside the livecodingtv_key file or inside the ~/.livecodingtv_key ![Streamer key](https://raw.github.com/michaltakac/LivecodingTV-Streamer-Linux/master/Screenshots/streamer-key.png)
+![Streamer key](https://raw.github.com/michaltakac/LivecodingTV-Streamer-Linux/master/Screenshots/streamer-key.png)
+
+* Go to https://www.livecoding.tv/YOUR_USERNAME/settings/channel/ , click on the **Show Streamer key** and copy and paste the key inside the livecodingtv_key file or inside the ~/.livecodingtv_key 
 * Open now the livecodingtv.sh and edit the settings
 
         Value              Example                  Description                       
